@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
-3. [Features and Target](#features-and-target)
+3. [Target](#target)
 4. [Preprocessing](#preprocessing)
 5. [Models Used](#models-used)
 6. [Results](#results)
