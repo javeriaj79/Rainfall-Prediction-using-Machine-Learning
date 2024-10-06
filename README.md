@@ -33,7 +33,7 @@ The dataset used for this project is a historical weather dataset containing fea
 4. **Support Vector Classifier (SVC)**
 
 ## Results :
-- Each model was trained and evaluated using confusion matrices. Classification reports were generated to evaluate precision, recall, and F1-score.
+Each model was trained and evaluated using confusion matrices. Classification reports were generated to evaluate precision, recall, and F1-score.
 
 ## Contributing :
 Contributions are always welcome! Feel free to fork this repository, and submit a pull request to share your improvements with the community.
